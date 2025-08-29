@@ -1,3 +1,6 @@
+![License](https://img.shields.io/github/license/Mr4Dev/mrdev-recon)
+![Stars](https://img.shields.io/github/stars/Mr4Dev/mrdev-recon?style=social)
+
 # 🔎 MrDev Recon Script  
 
 Automated recon script for **Bug Bounty Hunters** & **Pentesters**.  
