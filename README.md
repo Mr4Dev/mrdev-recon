@@ -50,3 +50,7 @@ Install missing dependencies on Debian/Ubuntu:
 ```bash
 sudo apt update
 sudo apt install golang-go python3-pip git nmap zip -y
+git clone https://github.com/<your-username>/mrdev-recon.git
+cd mrdev-recon
+chmod +x mrdevrecon.sh
+
